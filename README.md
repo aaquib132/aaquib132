@@ -1,12 +1,11 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Aaquib Ahmad
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=#6c11fb&lines=Computer+Science+Graduate;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=1F6FEB&lines=Computer+Science+Graduate;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Always+Learning" alt="Typing SVG" />
 </a>
 
 ---
 
-![Banner GIF]
 <img 
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUweDh4aHRieTc1dnd0aDU3aDd5cnpycWlpNnN1dHp1YTZlOXZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpGRoqJXTqv4f1mrJb/giphy.gif" 
   width="100%" 
