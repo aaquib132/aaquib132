@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Aaquib Ahmad
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=F54242&lines=Computer+Science+Graduate;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=#6c11fb&lines=Computer+Science+Graduate;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Always+Learning" alt="Typing SVG" />
 </a>
 
 ---
