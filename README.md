@@ -6,7 +6,7 @@
 
 ---
 
-![Banner GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o4cTVxYmo0dnFud3NzZXczYmUzcmU0ZTJ1bGEzMmhhdTVma3VidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Banner GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUweDh4aHRieTc1dnd0aDU3aDd5cnpycWlpNnN1dHp1YTZlOXZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpGRoqJXTqv4f1mrJb/giphy.gif)
 
 ---
 
