@@ -6,7 +6,13 @@
 
 ---
 
-![Banner GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUweDh4aHRieTc1dnd0aDU3aDd5cnpycWlpNnN1dHp1YTZlOXZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpGRoqJXTqv4f1mrJb/giphy.gif)
+![Banner GIF]
+<img 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUweDh4aHRieTc1dnd0aDU3aDd5cnpycWlpNnN1dHp1YTZlOXZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpGRoqJXTqv4f1mrJb/giphy.gif" 
+  width="100%" 
+  alt="Banner"
+/>
+
 
 ---
 
