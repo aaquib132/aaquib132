@@ -53,9 +53,11 @@ I am a **Computer Science Graduate** (2025) from Techno Main Salt Lake, Kolkata,
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaquib132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaquib132&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=aaquib132&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aaquib132&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
 ---
 
 ### 📫 Let's Connect!
