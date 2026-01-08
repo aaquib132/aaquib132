@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&pause=1000&color=1F6FEB&lines=Full-Stack+MERN+Developer;CS+Graduate+at+TMSL;Building+Scalable+Web+Apps;UI/UX+%26+GSAP+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&pause=1000&color=1F6FEB&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Apps;AI+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a **Computer Science Graduate** (2025) from Techno Main Salt Lake, Kolkata, with a deep focus on the **MERN Stack**. I specialize in building performance-optimized, user-centric web applications.
+I am a **Computer Science Graduate** (2025), with a deep focus on the **MERN Stack**. I specialize in building performance-optimized, user-centric web applications.
 
 - 🚀 Currently building: **Real-Time Chat** (MERN & Socket.io)
 - 🏢 Previously: Developed **"My Perfect PG"** at Urban Nest, boosting student engagement by 25%.
