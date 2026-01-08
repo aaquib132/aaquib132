@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&pause=1000&color=1F6FEB&lines=Full-Stack+MERN+Developer;CS+Graduate+at+TMSL;Building+Scalable+Web+Apps;UI/UX+%26+GSAP+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&pause=1000&color=1F6FEB&lines=Full-Stack+MERN+Developer;CS+Graduate+at+TMSL;Building+Scalable+Web+Apps;UI/UX+%26+GSAP+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,15 +53,14 @@ I am a **Computer Science Graduate** (2025) from Techno Main Salt Lake, Kolkata,
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaquib132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaquib132&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaquib132&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaquib132&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/https:/www.linkedin.com/in/aaquibahmad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:khan850717@gmail.com">
