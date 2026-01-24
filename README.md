@@ -38,12 +38,9 @@ I am a **Computer Science Graduate** (2025), with a deep focus on the **MERN Sta
 
 ### 🌟 Featured Projects
 
-#### 💬 [Real-Time Messaging App](https://github.com/YOUR_GITHUB_USERNAME/chat-app-repo)
+#### 💬 [Real-Time Messaging App]([https://github.com/YOUR_GITHUB_USERNAME/chat-app-repo](https://github.com/aaquib132/VocYantra))
 * **Tech:** MERN Stack, Socket.io, JWT, Tailwind CSS.
 * **Key Feature:** Low-latency instant messaging with image sharing and secure authentication.
-
-#### 🏠 [My Perfect PG](https://github.com/YOUR_GITHUB_USERNAME/pg-platform-repo)
-* **Impact:** Built a student housing platform for Urban Nest, featuring optimized CRUD operations and high uptime deployment on Render/Vercel.
 
 #### 🎬 [Netflix Clone](https://github.com/YOUR_GITHUB_USERNAME/netflix-clone-repo)
 * **Tech:** React.js, TMDB API, Firebase.
