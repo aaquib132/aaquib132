@@ -42,7 +42,7 @@ I am a **Computer Science Graduate** (2025), with a deep focus on the **MERN Sta
 * **Tech:** MERN Stack, Socket.io, JWT, Tailwind CSS.
 * **Key Feature:** Low-latency instant messaging with image sharing and secure authentication.
 
-#### 🎬 [Netflix Clone](https://github.com/YOUR_GITHUB_USERNAME/netflix-clone-repo)
+#### 🎬 [Netflix Clone](https://github.com/aaquib132/Streaming-Platform-OTT-Clone-)
 * **Tech:** React.js, TMDB API, Firebase.
 * **Key Feature:** Dynamic content rendering and category-based browsing with a fully responsive UI.
 
