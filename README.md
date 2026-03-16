@@ -38,6 +38,12 @@ I am a **Computer Science Graduate** (2025), with a deep focus on the **MERN Sta
 
 ### 🌟 Featured Projects
 
+### 🌟 Featured Projects
+
+#### 🛒 [React E-Commerce Store](https://github.com/aaquib132/react-ecommerce-store)
+* **Tech:** React.js, Context API, Tailwind CSS, REST API  
+* **Key Feature:** Modern e-commerce UI with product browsing, cart management, wishlist, and responsive design.
+
 #### 💬 [Real-Time Messaging App](https://github.com/aaquib132/VocYantra)
 * **Tech:** MERN Stack, Socket.io, JWT, Tailwind CSS.
 * **Key Feature:** Low-latency instant messaging with image sharing and secure authentication.
